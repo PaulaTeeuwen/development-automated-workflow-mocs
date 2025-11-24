@@ -20,8 +20,7 @@ xyzwriter = stk.XyzWriter()
 #List of tritopic linkers
 Linkers_Br = [
     'BrC(C=C1)=CC=C1C2=CC(C3=CC=C(Br)C=C3)=CC(C4=CC=C(Br)C=C4)=C2',
-    'BrC1=CC(Br)=CC(Br)=C1'
-]
+    'BrC1=CC(Br)=CC(Br)=C1']
 
 #List of imine moieties
 Aldehydes_Br_dict = {'ald1': 'C1=NC(C=NBr)=CC=C1', 'ald2':'Br/N=C/C1=CC=CC(C)=N1', 'ald3':'Br/N=C/C1=CC=C(C)C=N1',  'ald4':'CC1=CC=NC(/C=N/Br)=C1'}
